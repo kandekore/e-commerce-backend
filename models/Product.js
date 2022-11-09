@@ -11,11 +11,11 @@ Product.init(
   {
     id: {
       type: DataTypes.INTEGER,
-      primarykey: true,
+      primaryKey: true,
       autoIncrement: true,
       allowNull: false,
     },
-    category_name: {
+    product_name: {
       type: DataTypes.STRING,
       allowNull: false,
     },
