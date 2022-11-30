@@ -1,0 +1,13 @@
+ {
+        "id": 1,
+        "product_name": "Plain Blue T-Shirt",
+        "price": "15",
+        "stock": 14,
+        "category_id": 1}
+
+ {
+        
+        "product_name": "Sexy Blue Jeans",
+        "price": "30",
+        "stock": 50,
+        "category_id": 2}
